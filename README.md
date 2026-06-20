@@ -106,5 +106,5 @@ University of Delhi | 2:1
 ---
 
 # 📫 Connect with Me
-* 💼 **[LinkedIn] https://www.linkedin.com/in/raishal/** 
+* 💼 **[LinkedIn] (https://www.linkedin.com/in/raishal/)** 
 * 📧 Email: draishal2001@gmail.com
