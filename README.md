@@ -21,5 +21,5 @@ I transform complex, multi-source commercial data into structured, interactive i
 ---
 
 ### 📫 Connect with Me
-* 💼 **[LinkedIn](https://linkedin.com)** *(Make sure to update this with your actual full URL)*
-* 📧 Email: your.email@example.com
+* 💼 **[LinkedIn] https://www.linkedin.com/in/raishal/** 
+* 📧 Email: draishal2001@gmail.com
