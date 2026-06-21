@@ -91,7 +91,7 @@ Power BI | Operations Analytics | KPI Design | Data Modelling | Dashboard Storyt
 # 🛠️ Core Technical Stack
 * **Programming & Data Processing:** Python, SQL, Pandas, NumPy, PyODBC
 * **Databases & Architecture:** Relational Databases, NoSQL (MongoDB), Polyglot Persistence, Star Schema Design, SQL Server, Azure Databricks, Snowflake
-* **Business Intelligence & Visualisation:** Power BI, DAX, Power Query, Tableau, Looker Studio, Matplotlib
+* **Business Intelligence & Visualisation:** Power BI, DAX, Microsoft Fabric, Power Query, Tableau, Looker Studio
 
 ---
 
